@@ -1,0 +1,4 @@
+
+- Link para dowload do Git  https://git-scm.com/downloads
+- Site Git Hub https://github.com/Karen-Ferreira/DIO-desafio-projeto-primeiro-repositorio/
+- Ambiente de Aprendizagem de Programação http://lite.acad.univali.br/portugol/
